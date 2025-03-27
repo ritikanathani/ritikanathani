@@ -3,7 +3,7 @@
 
  🔒 Protecting the digital realm with a strong arsenal of cybersecurity skills. Proficient in network security 🔒, ethical hacking 👾, and SIEM tools like Splunk 🕵️‍♂️.  
  💡 Exploring the intersections of data, analytics, and security, constantly learning and adapting to the evolving tech landscape.  
- 📈 Uncovering insights from data with skills in data analytics, data visualization, and statistical analysis. Proficient in tools like Python 🐍, R 📊, and Tableau 📈.  
+ 📈 Uncovering insights from data with skills in data analytics, data visualization, and statistical analysis. Proficient in tools like Python 🐍, and Tableau 📈.  
  📊 Transforming data into gold with expertise in ETL, data warehousing, and data modeling. Proficient in SQL 📜, Python 🐍, Apache Spark ⚡, and more.  
  🔌 Building resilient data pipelines with tools like Apache Airflow 🌬️, AWS Glue ☁️, and Kafka 📬. Making data flow seamlessly is my superpower.  
 
