@@ -1,11 +1,14 @@
-### Hi there! I'm Ritika 👋
-🛡️ Cyber Guardian | 📈 Analytics Wizard |  🚀 Data Enthusiast 
+### Hi there! I'm Ritika 
+ Cyber Guardian | Analytics Wizard | Data Enthusiast 
 
- 🔒 Protecting the digital realm with a strong arsenal of cybersecurity skills. Proficient in network security 🔒, ethical hacking 👾, and SIEM tools like Splunk 🕵️‍♂️.  
- 💡 Exploring the intersections of data, analytics, and security, constantly learning and adapting to the evolving tech landscape.  
- 📈 Uncovering insights from data with skills in data analytics, data visualization, and statistical analysis. Proficient in tools like Python 🐍, and Tableau 📈.  
- 📊 Transforming data into gold with expertise in ETL, data warehousing, and data modeling. Proficient in SQL 📜, Python 🐍, Apache Spark ⚡, and more.  
- 🔌 Building resilient data pipelines with tools like Apache Airflow 🌬️, AWS Glue ☁️, and Kafka 📬. Making data flow seamlessly is my superpower.  
+ Securing the cloud, hunting threats, and automating defenses.
+Hi, I’m Ritika Nathani, a cybersecurity enthusiast and DevSecOps practitioner with a Master’s in Management Information Systems from Baruch College. I specialize in cloud security, threat hunting, incident response, and automated monitoring across environments like GCP and AWS.
+I’ve reduced network exposure, strengthened IAM policies, and developed real-time alert systems to catch vulnerabilities before they become incidents. My hands-on toolkit includes Python, SIEM tools (Splunk), IDS/IPS, DAST & SAST tools, and CI/CD automation, all aimed at making systems resilient and secure.
+From analyzing legacy applications against CVEs and OWASP Top 10, to managing production security incidents with PagerDuty, I thrive on protecting systems, mitigating risks, and improving security postures.
+
+Outside work, I run cybersecurity labs, lead security competitions, and experiment with new defense strategies, always learning the next way to stay ahead of attackers.
+
+Focus Areas: Cloud Security | Threat Hunting | Incident Response | Network Defense | Security Automation | Vulnerability Management | Compliance & GRC | Python & Security Tooling
 
 Feel free to connect with me on LinkedIn https://www.linkedin.com/in/ritika-nathani/
 
