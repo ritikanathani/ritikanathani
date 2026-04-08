@@ -10,7 +10,13 @@ Outside work, I run cybersecurity labs, lead security competitions, and experime
 
 Focus Areas: Cloud Security | Threat Hunting | Incident Response | Network Defense | Security Automation | Vulnerability Management | Compliance & GRC | Python & Security Tooling
 
-Feel free to connect with me on LinkedIn https://www.linkedin.com/in/ritika-nathani/
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="https://www.linkedin.com/in/ritika-nathani/| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 
 <!--
 **ritikanathani/ritikanathani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
