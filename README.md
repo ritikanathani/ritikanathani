@@ -1,5 +1,5 @@
 ### Hi there! I'm Ritika 
- Cyber Guardian | Analytics Wizard | Data Enthusiast 
+ Cyber Guardian | Analytics Wizard 
 
  Securing the cloud, hunting threats, and automating defenses.
 Hi, I’m Ritika Nathani, a cybersecurity enthusiast and DevSecOps practitioner with a Master’s in Management Information Systems from Baruch College. I specialize in cloud security, threat hunting, incident response, and automated monitoring across environments like GCP and AWS.
