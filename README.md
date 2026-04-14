@@ -13,7 +13,7 @@ Focus Areas: Cloud Security | Threat Hunting | Incident Response | Network Defen
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="Ritika| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ritika| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ]
 
 <!--
 Ritika
